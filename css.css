@@ -1,0 +1,49 @@
+body {
+    background-color: burlywood;
+}
+/* index page  */
+h1 {
+    text-shadow: 2px 5px orange;
+}
+#note {
+    color:aquamarine;
+    text-shadow: 5px 4px 3px red ;
+    
+    
+}
+a {background-color:darkblue;
+    color:wheat ;
+    text-decoration:solid ;
+    }
+    a:hover{
+        background-color: red;
+        color:black ;
+        text-decoration: underline;
+    }
+    a:active {background-color:red;}
+/* registration page  */
+
+
+    .b {
+        color: black;
+    }
+
+    /* user home  */
+    .ol {
+        color: darkorange;
+    }
+/* about us  */
+img {
+    height: 200px;
+    width: 200px;
+    border: 10px solid yellow;
+    border-top-color:orange;
+    border-bottom-color:goldenrod;
+    border-radius: 200px;
+}
+/* login page  */
+ 
+  p {
+    color: orange;
+    text-shadow: 1px 1px gold;
+  }
